@@ -1,0 +1,16 @@
+{
+  "name": "employee_tracker_cms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "seed": "node db/seeds.js"  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "pg": "^8.12.0"
+  }
+}
