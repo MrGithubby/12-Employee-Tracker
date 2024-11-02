@@ -1,4 +1,4 @@
-# SQL: Employee Tracker (content management systems (CMS))
+# SQL: Employee Tracker
 
 ## description
 A command-line application to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL. Created interfaces that allow non-developers to easily view and interact with information stored in databases.
